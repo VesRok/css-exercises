@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    background-color:#ec555560;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#two
+{
+    color: #2b2bdf;
+    font-size: 36px;
+}
+#four {
+background-color: #79eba5d3;
+font-weight: bold;
+}
+.three,
+#four
+{
+    font-size: 24px;
+}
